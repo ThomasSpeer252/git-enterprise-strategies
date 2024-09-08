@@ -1,3 +1,5 @@
+export default App;
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -6,9 +8,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hello World! This is our team project.
-        </p>	
+        <p> Hello World! </p>
+        <p> My name is Thomas Speer and this is my project </p>
       </header>
     </div>
   );
